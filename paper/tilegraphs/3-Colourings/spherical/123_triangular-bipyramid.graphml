@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="index" attr.type="int" for="edge" id="d5" />
+  <key attr.name="group" attr.type="string" for="edge" id="d4" />
+  <key attr.name="connected" attr.type="boolean" for="edge" id="d3" />
+  <key attr.name="matchColor" attr.type="string" for="edge" id="d2" />
+  <key attr.name="color" attr.type="string" for="edge" id="d1" />
+  <key attr.name="minDegree" attr.type="int" for="node" id="d0" />
+  <graph edgedefault="directed">
+    <node id="0">
+      <data key="d0">3</data>
+    </node>
+    <node id="1">
+      <data key="d0">3</data>
+    </node>
+    <node id="2">
+      <data key="d0">3</data>
+    </node>
+    <node id="3">
+      <data key="d0">3</data>
+    </node>
+    <node id="4">
+      <data key="d0">3</data>
+    </node>
+    <edge id="0" source="0" target="1">
+      <data key="d1">KAKI-</data>
+      <data key="d2">KAKI+</data>
+      <data key="d3">True</data>
+      <data key="d4">A</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge id="1" source="0" target="3">
+      <data key="d1">CYAN</data>
+      <data key="d2">CYAN</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge id="2" source="0" target="4">
+      <data key="d1">KAKI-</data>
+      <data key="d2">KAKI+</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge id="3" source="0" target="2">
+      <data key="d1">CYAN</data>
+      <data key="d2">CYAN</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge id="4" source="1" target="2">
+      <data key="d1">KAKI+</data>
+      <data key="d2">KAKI-</data>
+      <data key="d3">True</data>
+      <data key="d4">A</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge id="5" source="1" target="0">
+      <data key="d1">KAKI+</data>
+      <data key="d2">KAKI-</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge id="6" source="1" target="3">
+      <data key="d1">KAKI+</data>
+      <data key="d2">KAKI-</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge id="7" source="2" target="0">
+      <data key="d1">CYAN</data>
+      <data key="d2">CYAN</data>
+      <data key="d3">True</data>
+      <data key="d4">A</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge id="8" source="2" target="4">
+      <data key="d1">KAKI-</data>
+      <data key="d2">KAKI+</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge id="9" source="2" target="1">
+      <data key="d1">KAKI-</data>
+      <data key="d2">KAKI+</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge id="10" source="2" target="3">
+      <data key="d1">CYAN</data>
+      <data key="d2">CYAN</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge id="11" source="3" target="1">
+      <data key="d1">KAKI-</data>
+      <data key="d2">KAKI+</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">1</data>
+    </edge>
+    <edge id="12" source="3" target="0">
+      <data key="d1">CYAN</data>
+      <data key="d2">CYAN</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge id="13" source="3" target="2">
+      <data key="d1">CYAN</data>
+      <data key="d2">CYAN</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">4</data>
+    </edge>
+    <edge id="14" source="3" target="4">
+      <data key="d1">KAKI-</data>
+      <data key="d2">KAKI+</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">5</data>
+    </edge>
+    <edge id="15" source="4" target="3">
+      <data key="d1">KAKI+</data>
+      <data key="d2">KAKI-</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">2</data>
+    </edge>
+    <edge id="16" source="4" target="0">
+      <data key="d1">KAKI+</data>
+      <data key="d2">KAKI-</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">3</data>
+    </edge>
+    <edge id="17" source="4" target="2">
+      <data key="d1">KAKI+</data>
+      <data key="d2">KAKI-</data>
+      <data key="d3">True</data>
+      <data key="d4">B</data>
+      <data key="d5">5</data>
+    </edge>
+  </graph>
+</graphml>
